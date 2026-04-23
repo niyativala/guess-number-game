@@ -12,7 +12,16 @@ A fun JavaScript game where users guess a random number within a time limit.
 - HTML
 - JavaScript
 
+▶️ How to Run Project
+Download or clone repository
+Open index.html in browser
+
 ## 📌 How to Play
 1. Enter max number
 2. Guess the number
 3. Win before time runs out!
+
+🙋‍♀️ Author
+
+Niyati Vala
+MERN Stack Developer (Fresher)
