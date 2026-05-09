@@ -68,6 +68,7 @@ A fun JavaScript game where users guess a random number within a time limit.
 ---
 
 🙋‍♀️ Author
+
 Niyati Vala
 
 ---
