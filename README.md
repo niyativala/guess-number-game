@@ -71,7 +71,14 @@ A fun JavaScript game where users guess a random number within a time limit.
 
 Niyati Vala
 
----
+--- 
 
-⭐ Note
+## ⭐ Support 
+
+If you like this project, give it a ⭐ on GitHub! 
+
+--- 
+
+## ⭐ Note 
+
 This is a beginner-level project created for learning JavaScript basics.
